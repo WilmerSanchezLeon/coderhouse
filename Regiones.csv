@@ -1,0 +1,28 @@
+﻿Region_Nro,Region,Estados,Capitales,REF
+1,Norte,Acre,Rio Branco,AC
+1,Norte,Amapá,Macapá,AP
+1,Norte,Amazonas,Manaus,AM
+1,Norte,Pará,Belém,PA
+1,Norte,Rondônia,Porto Velho,RO
+1,Norte,Roraima,Boa Vista,RR
+1,Norte,Tocantins,Palmas,TO
+2,Nordeste,Alagoas,Maceió,AL
+2,Nordeste,Bahia,Salvador,BA
+2,Nordeste,Ceará,Fortaleza,CE
+2,Nordeste,Maranhão,São Luís,MA
+2,Nordeste,Paraíba,João Pessoa,PB
+2,Nordeste,Pernambuco,Recife,PE
+2,Nordeste,Piauí,Teresina,PI
+2,Nordeste,Rio Grande do Norte,Natal,RN
+2,Nordeste,Sergipe,Aracaju,SE
+3,Centro -oeste,Goiás,Goiânia,GO
+3,Centro -oeste,Mato Grosso,Cuiabá,MT
+3,Centro -oeste,Mato Grosso do Sul,Campo Grande,MS
+3,Centro -oeste,Distrito Federal,Brasília,DF
+4,Sudeste,Espírito Santo,Vitória,ES
+4,Sudeste,Minas Gerais,Belo Horizonte,MG
+4,Sudeste,Rio de Janeiro,Rio de Janeiro,RJ
+4,Sudeste,São Paulo,São Paulo,SP
+5,Sur,Paraná,Curitiba,PR
+5,Sur,Rio Grande do Sul,Porto Alegre,RS
+5,Sur,Santa Catarina,Florianópolis,SC
